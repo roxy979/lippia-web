@@ -1,8 +1,8 @@
-package lippia.web.services;
+package lippia.web.services.GoogleTP3;
 
 import com.crowdar.core.actions.ActionManager;
 
-import lippia.web.constants.GoogleConstants;
+import lippia.web.constants.GoogleTP3.GoogleConstants;
 
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;

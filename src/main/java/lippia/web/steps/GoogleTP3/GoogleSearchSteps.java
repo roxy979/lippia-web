@@ -1,9 +1,9 @@
-package lippia.web.steps;
+package lippia.web.steps.GoogleTP3;
 
 import com.crowdar.core.PageSteps;
 import io.cucumber.java.en.*;
-import lippia.web.services.GoogleHomeService;
-import lippia.web.services.GoogleSearchResultService;
+import lippia.web.services.GoogleTP3.GoogleHomeService;
+import lippia.web.services.GoogleTP3.GoogleSearchResultService;
 
 public class GoogleSearchSteps extends PageSteps {
 

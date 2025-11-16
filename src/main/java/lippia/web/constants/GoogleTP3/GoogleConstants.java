@@ -1,4 +1,4 @@
-package lippia.web.constants;
+package lippia.web.constants.GoogleTP3;
 
 public class GoogleConstants {
 
